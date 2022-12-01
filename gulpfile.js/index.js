@@ -2,7 +2,7 @@
 
 "use strict";
 
-const js = require('./tasks/js');
+const js = require("./tasks/js");
 
 exports.default = js.build;
 
